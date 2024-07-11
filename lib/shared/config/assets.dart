@@ -8,7 +8,7 @@ class AppAssets {
   static const reviewA1Prod4Image2 = 'assets/images/review_2_prod_4.png';
   static const reviewA1Prod4Image3 = 'assets/images/review_3_prod_4.png';
 
-  static const userImage1 = 'assets/images/userImage1.jpg';
+  static const userImage1 = 'assets/images/userImage1.png';
   static const userImage2 = 'assets/images/userImage2.png';
   static const userImage3 = 'assets/images/userImage3.png';
   static const userImage4 = 'assets/images/userImage4.png';
